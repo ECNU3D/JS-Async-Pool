@@ -1,8 +1,8 @@
 {
-  "name": "src",
+  "name": "taskpool",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "taskpool.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
